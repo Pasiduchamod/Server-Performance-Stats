@@ -19,3 +19,7 @@ A simple Bash script to display system resource usage and basic OS information o
 ```bash
 chmod +x system_monitor.sh
 ./system_monitor.sh
+```
+
+## Project Source:
+Roadmap : https://roadmap.sh/projects/server-stats
